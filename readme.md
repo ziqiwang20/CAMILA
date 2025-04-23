@@ -1,4 +1,8 @@
 # PiFLoRA: Privacy-aware and Incentivized Federated LoRA for Robust Continual LLM Fine-tuning
 
 
-### Experimental Setup:
+### 1. Experimental Setup:
+~
+conda env create -f requirements.yaml
+~
+
