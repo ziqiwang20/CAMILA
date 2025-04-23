@@ -2,6 +2,13 @@
 
 
 ### 1. Experimental Setup:
+
+
+Install environments with requirements.txt:
+```
+conda/pip install -r requirements.txt
+```
+or using requirements.yaml:
 ```
 conda env create -f requirements.yaml
 ```
