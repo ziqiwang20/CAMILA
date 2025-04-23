@@ -13,3 +13,4 @@ or using requirements.yaml:
 conda env create -f requirements.yaml
 ```
 
+### 2. Launch the Experiment:
