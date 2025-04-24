@@ -1,4 +1,4 @@
-# PiFLoRA: Privacy-aware and Incentivized Federated LoRA for Robust Continual LLM Fine-tuning
+# PiFLoRA: Defending Federated LoRA with Incentives and Privacy against Malicious Clients
 
 The code of our PiFLoRA framework is presented here comprehensively and systematically.
 
