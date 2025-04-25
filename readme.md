@@ -24,7 +24,9 @@ conda env create -f requirements.yaml
 ```
 
 ### 3. Project Structure:
-We present the *data poisoning attack* and *backdoor attack* on three datasets: AGNews, DBPedia, and 20NewsGroup. The corresponding implementation codes are organized in their respective folders for each 'attack/dataset'. Beyond the malicious attack scenarios, we also investigate PiFLoRA's performance under semi-honest noisy environments and purely benign environments. Please kindly refer to the corresponding folder for your reference.
+We present the *data poisoning attack* and *backdoor attack* on three datasets: AGNews, DBPedia, and 20NewsGroup. The corresponding implementation codes are organized in their respective folders for each 'attack/dataset'. 
+
+Beyond the malicious attack scenarios, we also investigate PiFLoRA's performance under semi-honest noisy environments and purely benign environments. Please kindly refer to the corresponding folder for your reference.
 
 
 
