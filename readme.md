@@ -4,7 +4,8 @@ The code of our PiFLoRA framework is presented here comprehensively and systemat
 
 ### 1. Environments and LLMs:
 
-#### We adopt Llama3.2 (1B), TinyLlama, Gemma3 (1B), GPT2-Large, and OPT (1.3B) for evaluation in our experiments.
+#### Large Language Models:
+We adopt Llama3.2 (1B), TinyLlama, Gemma3 (1B), GPT2-Large, and OPT (1.3B) for evaluation in our experiments.
 
 #### Language Version:
 Python 3.12.9
