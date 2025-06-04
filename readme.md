@@ -28,7 +28,9 @@ We present the *data poisoning attack* and *backdoor attack* on three datasets: 
 
 Beyond the malicious attack scenarios, we also investigate PiFLoRA's performance under semi-honest noisy environments and purely benign environments. Please kindly refer to the corresponding folder for your reference.
 
-### 4. Mathematical Proof:
-We present additional convergence proof in this repo as a supplementary material of our main paper. Please kindly refer to [View the Convergence Analysis PDF](./Convergence_Analysis.pdf).
+### 4. Additional Experimental Setup:
+We supplement a detailed experimental setup, including dataset information and LLMs in our evaluation ([View the Setup](./Experiment_setup)). 
 
+### 5. Mathematical Proof:
+We present additional convergence proof in this repo as a supplementary material of our main paper. Please kindly refer to [View the Convergence Analysis PDF](./Convergence_Analysis.pdf).
 
