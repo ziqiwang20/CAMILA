@@ -1,4 +1,4 @@
-# PiFLoRA: Defending Federated LoRA with Incentives and Privacy against Malicious Clients
+# Incentive is All You Need: Securing One-Shot Federated LoRA Against Malicious Clients
 
 The code of our PiFLoRA framework is presented here comprehensively and systematically.
 
