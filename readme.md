@@ -32,5 +32,5 @@ Beyond the malicious attack scenarios, we also investigate PiFLoRA's performance
 We supplement a detailed experimental setup, including dataset information and LLMs in our evaluation ([View the Setup](./Experiment_setup.md)). 
 
 ### 5. Mathematical Proof:
-We present additional convergence proof in this repo as a supplementary material of our main paper. Please kindly refer to [View the Convergence Analysis PDF](./Convergence_Analysis.pdf).
+We present additional convergence proof in the appendix of the original manuscript. Please kindly refer to all mathematical analysis of our PiFLoRA system there.
 
