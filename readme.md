@@ -1,4 +1,4 @@
-# Incentive is All You Need: Scalable and Maliciously-Secure One-Shot Federated LoRA
+# Incentive is All You Need: Scalable and Maliciously-Secure Federated LoRA with Single-Round Aggregation
 
 The code of our PiFLoRA framework is presented here comprehensively and systematically.
 
