@@ -1,6 +1,6 @@
-# Incentive is All You Need: Scalable and Maliciously-Secure Federated LoRA with Single-Round Aggregation
+# CAMILA: Incentive-Driven, Maliciously-Secure LoRA Aggregation for Continuous Adaptation
 
-The code of our PiFLoRA framework is presented here comprehensively and systematically.
+The code of our CAMILA framework is presented here comprehensively and systematically.
 
 ### 1. Environments and LLMs:
 
