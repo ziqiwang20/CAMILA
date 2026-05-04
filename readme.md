@@ -1,4 +1,4 @@
-# CAMILA: Incentive-Driven, Maliciously-Secure LoRA Aggregation for Continuous Adaptation
+# CAMILA: Incentive-Driven, Maliciously-Secure LoRA Aggregation for Continual Adaptation
 
 The code of our CAMILA framework is presented here comprehensively and systematically.
 
